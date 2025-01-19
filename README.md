@@ -1,10 +1,19 @@
-# SpringBootcamp
+# 📚 Online Bookstore - SpringBootcamp
 
-This repository is a collection of small projects and examples to practice various features of the Spring Framework.
+This repository is a collection of examples to practice various features of the Spring Framework.
+As a demonstration, a simple project "Online Bookstore" is built. 
 
 ---
 
-## 📋 Contents
+## **About the Project**
+The **Online Bookstore** is a simple web application designed to:
+- Explore and practice key features of the **Spring Framework**.
+- Showcase how different Spring modules (Spring Boot, Spring MVC, Spring Security, Spring Data, etc.) can be combined in a real-world application.
+
+---
+
+
+## 📋 Covered Spring Modules
 
 This repository includes the following Spring Framework modules:
 
@@ -14,6 +23,6 @@ This repository includes the following Spring Framework modules:
 2. Spring Data Access
    * Spring Data JPA
    * JdbcTemplate
-3. Spring Security
+4. Spring Security
    * Stateful Authentication
    * Stateless Authentication
